@@ -1,0 +1,12 @@
+.dashboard-container {
+  margin-top: 50px;
+}
+
+.search {
+  max-width: 250px;
+  margin-bottom: 30px;
+}
+
+.pagination {
+  text-align: center;
+}

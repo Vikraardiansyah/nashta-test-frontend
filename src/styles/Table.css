@@ -1,0 +1,9 @@
+.table-head {
+  background-color: #bdbdbd;
+}
+
+.note-data {
+  text-align: justify;
+  min-width: 300px;
+  max-width: 400px;
+}

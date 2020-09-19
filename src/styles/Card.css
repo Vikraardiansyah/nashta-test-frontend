@@ -1,0 +1,57 @@
+.card-context {
+  margin-top: 20px;
+  border-radius: 20px !important;
+  overflow: hidden !important;
+}
+.card-image {
+  height: 200px !important;
+}
+
+.icon-location {
+  color: red;
+  font-size: 20px;
+  margin: -5px -3px 0 0;
+}
+
+.text-location {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: -10px;
+}
+
+.text-title {
+  font-size: 32px;
+}
+
+.participants-content {
+  display: flex;
+  justify-content: space-around;
+  border-style: solid none none none;
+  border-color: #eceff1;
+  border-width: 1px;
+  padding: 10px 0;
+  font-size: 15px;
+}
+
+.icon-participant {
+  font-size: 20px;
+  margin-top: -5px;
+}
+
+.text-participant {
+  text-transform: capitalize;
+}
+
+.note-content {
+  background-color: #eceff1;
+  margin-top: -33px !important;
+}
+
+.note-text {
+  text-align: justify;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 5; /* number of lines to show */
+  -webkit-box-orient: vertical;
+}

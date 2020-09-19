@@ -1,0 +1,21 @@
+.text-area {
+  min-height: 100px;
+}
+
+.form-container {
+  margin-top: 50px;
+}
+.form-col {
+  background-color: #eceff1;
+  border-radius: 5px;
+}
+
+.form-content {
+  padding: 20px;
+}
+
+.image-home {
+  background-image: url(../assets/discuss-image.jpg);
+  object-fit: cover;
+  background-size: cover;
+}

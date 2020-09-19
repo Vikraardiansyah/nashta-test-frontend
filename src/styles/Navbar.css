@@ -1,0 +1,21 @@
+.navbar {
+  background-color: #bdbdbd !important;
+}
+
+.brand {
+  font-size: 25px !important;
+  cursor: pointer;
+}
+
+.link {
+  font-size: 20px !important;
+  cursor: pointer;
+}
+
+.link-add-event {
+  color: black !important;
+}
+
+.link-dashboard {
+  color: white !important;
+}
