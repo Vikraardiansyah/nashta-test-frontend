@@ -1,8 +1,6 @@
 # nashta-test-frontend
-## Introduction
-Sahabat Setia is library web application that can borrow your favorite book, you can search your favorite book in search bar, you can see detail of book, and you can see history of book that you being borrowed
 
-## Requirements
+## Reqruirements
 * [npm](https://www.npmjs.com/get-npm)
 * [react](https://reactjs.org/docs/create-a-new-react-app.html)
 
